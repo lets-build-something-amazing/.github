@@ -16,7 +16,7 @@ However, you can still contribute right now\! Here is how:
 
 We are looking for project ideas that leverage open-source technology to create a positive **civic impact** in our local communities.
 
-* Head over to our [Discord Server](https://letsbuildsomethingamazing.com).  
+* Head over to our [Discord Server](https://discord.gg/BfGURFrtN).
 * Go to the \#what-are-we-building forum.  
 * Create a new post using the provided pitch template.
 
