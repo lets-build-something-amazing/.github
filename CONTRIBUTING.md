@@ -39,7 +39,8 @@ We strictly utilize GitHub Codespaces / DevContainers. You are never required to
 We follow a standard Git Flow. **Never commit directly to main.**
 
 * Create a new branch from main for your work.  
-* Naming convention: feature/your-feature-name, bugfix/issue-description, or docs/update-readme.
+* **Include the Issue number** in your branch name. This helps mentors instantly understand what you are working on so they can proactively help\!  
+* Naming convention: feature/\[issue-number\]-short-description (e.g., feature/42-add-dark-mode), bugfix/\[issue-number\]-description (e.g., bugfix/115-fix-header-alignment), or docs/update-readme.
 
 ### **2\. Submitting a Pull Request (PR)**
 
