@@ -1,4 +1,4 @@
-# **Let's Build Something Amazing 👋 🌎 → 🌱 → 🚀**
+# **Let's Build Something Amazing**
 
 **Bridging the gap between beginner tutorials and real-world engineering.**
 
@@ -32,6 +32,7 @@ We are currently in **Phase 1**, which means the most important thing you can do
 1. **Join the Discord:** [Click here to join our Discord](https://discord.gg/BfGURFrtN) and introduce yourself in the \#welcome channel.  
 2. **Pitch an Idea:** Head over to our \#what-are-we-building forum and pitch an idea for our first community build\!  
 3. **Check the Website:** Visit [letsbuildsomethingamazing.com](https://letsbuildsomethingamazing.com) for updates and links to our YouTube tutorials.
+4. **Join the [Discussion](https://github.com/lets-build-something-amazing/project-ideas/discussions)** where we will be brainstorming ideas for what we're going to be building.
 
 *"From the absolute beginner 'Hello World', to nurturing skills, leading to a successful launch."*
 
