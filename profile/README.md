@@ -10,9 +10,9 @@ If you are tired of building the same "To-Do List" app in isolation and want to 
 
 We operate under a structured, community-driven approach to ensure projects actually launch:
 
-* **Phase 1: The Gathering (Current Phase) 🟢** We are currently establishing our community, organizing our tools, and brainstorming ideas. No coding yet\!  
-* **Phase 2: The Decision** The community votes on the official application we are going to build using fair polling mechanisms.  
-* **Phase 3: The Build** Active engineering begins. We open the DevContainers, submit Pull Requests, setup CI/CD, and deploy to production together.
+* **Phase 1** We are currently establishing our community, organizing our tools, and brainstorming ideas. No coding yet\!  
+* **Phase 2** The community votes on the official application we are going to build using fair polling mechanisms.  
+* **Phase 3** Active engineering begins. We open the DevContainers, submit Pull Requests, setup CI/CD, and deploy to production together.
 
 ## **🏙️ The Civic Challenge**
 
