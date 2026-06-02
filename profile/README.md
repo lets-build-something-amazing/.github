@@ -31,7 +31,7 @@ We are currently in **Phase 1**, which means the most important thing you can do
 
 1. **Join the Discord:** [Click here to join our Discord](https://discord.gg/BfGURFrtN) and introduce yourself to the community.
 2. **Check the Website:** Visit [letsbuildsomethingamazing.com](https://letsbuildsomethingamazing.com) for updates and links to our YouTube tutorials.
-3. **Join the [Discussion](https://github.com/lets-build-something-amazing/project-ideas/discussions)** where we will be brainstorming ideas for what we're going to be building.
+3. **Join the [Discussion](https://github.com/lets-build-something-amazing/project-ideas/discussions/categories/ideas)** where we will be brainstorming ideas for what we're going to be building.
 
 *"From the absolute beginner 'Hello World', to nurturing skills, leading to a successful launch."*
 
